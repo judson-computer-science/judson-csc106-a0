@@ -8,19 +8,6 @@ compiling it and executing it to be sure it works.
 You will follow the step listing in the Assignment Submission section
 below.
 
-## Assignment Submission
-You will submit your assignment using GitHub Classroom.  When you are
-finished and want to make your final submission, use the checkin
-comment "FINAL SUBMISSION":
-
-        git add .
-        git commit -m "FINAL SUBMISSION"
-        git push origin main
-
-Any submission not having this comment will be assumed to be a
-work-in-progress and therefore will be ignored.  This implies that you
-must make your final push with this commit comment before the deadline.
-
 ## Input
 None
 
